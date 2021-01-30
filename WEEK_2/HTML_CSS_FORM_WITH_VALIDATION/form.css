@@ -1,0 +1,29 @@
+body{
+	background: whitesmoke;
+}
+* {
+    /* text-align: center; */
+    
+}
+input {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: green;
+}
+
+button {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-color: green;
+    color: green;
+    cursor: pointer;
+}
+
+.error {
+    margin: 8px 0;
+    color: red ;
+}
